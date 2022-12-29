@@ -1,1 +1,1 @@
-# npmtest
+# is-wds-npm-package
